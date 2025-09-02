@@ -1,6 +1,7 @@
-Despues de haber diseñado la calculadora o aplicación GUI en dising Qt 
-de python se debe 
+Despues de haber diseÃ±ado la calculadora o aplicaciÃ³n GUI en dising Qt 
+de python se debe:
 
+#1. 
 Ingresar al cmd de la carpeta donde este ubicado el archivo .ui
 en este ejemplo sera Calculadora.ui
 
